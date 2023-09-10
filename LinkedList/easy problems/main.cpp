@@ -61,7 +61,7 @@ void delete_front(){
     }
     return currentptr;
     }
-    //q5 missing
+    //q5 
     bool is_same(const LinkedList&new_list){
     if(length!=new_list.length)
         return false;
