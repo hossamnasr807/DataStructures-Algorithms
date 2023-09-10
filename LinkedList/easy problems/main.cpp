@@ -1,3 +1,4 @@
+// these are solutions for some problems on Linked List data structure. The problems are available in the pdf file inside the same folder.
 #include <iostream>
 using namespace std;
 struct Node {
